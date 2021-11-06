@@ -1,0 +1,10 @@
+simulations/prices_all_1h.csv
+simulations/prices_all_1hBTC.csv
+simulations/prices_all_1hETH.csv
+simulations/prices_all_1hFTM.csv
+simulations/.ipynb_checkpoints/getData-checkpoint.ipynb
+simulations/.ipynb_checkpoints/OptionSimulations-checkpoint.ipynb
+prices_all_1h.csv
+prices_all_1hBTC.csv
+prices_all_1hETH.csv
+prices_all_1hFTM.csv
